@@ -10,7 +10,7 @@ accuracy, loss, and confusion matrix metrics.
 <br> The dataset is systematically divided into training (70%), validation (20%), and testing (10%) 
 subsets.
 <h2> Technologies Used</h2>
-<br> 1. Python
+ 1. Python
 <br> 2. IDE- VS Code
 <h3> References </h3>
-<br> 1. https://github.com/meilfang/SynthASpoof
+ 1. https://github.com/meilfang/SynthASpoof
