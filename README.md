@@ -9,8 +9,18 @@ presentation attacks using the SynthASpoof dataset.
 accuracy, loss, and confusion matrix metrics. 
 <br> The dataset is systematically divided into training (70%), validation (20%), and testing (10%) 
 subsets.
-<h2> Technologies Used</h2>
+<h2> Description of the Dataset </h2>
+The SynthASpoof dataset was curated specifically for research in face presentation 
+attack detection. It addresses the need for a diverse dataset that includes both bona fide 
+and synthetic attack images to simulate real-world attack scenarios.
+<br> Classes and Categories: 
+1. BonaFide: Genuine face images without any tampering or attacks. 
+2. Samsung_ReplayAttack: Synthetic images replayed using a Samsung device, 
+simulating digital screen replay attacks. 
+3. Webcam_ReplayAttack: Synthetic images replayed using a webcam, simulating 
+basic attack scenarios. 
+<h3> Technologies Used</h3>
  1. Python
 <br> 2. IDE- VS Code
-<h3> References </h3>
+<h4> References </h4>
  1. https://github.com/meilfang/SynthASpoof
