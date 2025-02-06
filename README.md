@@ -22,5 +22,14 @@ basic attack scenarios.
 <h1> Technologies Used</h1>
  1. Python
 <br> 2. IDE- VS Code
+<h1> Project Results </h1>
+1. Epochs=5 is used in the execution of this project.
+<br> 2.The sparse categorical cross-entropy loss is utilized to compute the error between 
+the predicted probabilities and true labels for multi-class classification tasks. 
+<br> 3. A batch size of 32 is chosen to optimize memory utilization and computational 
+throughput.
+<h4> Test Metrics </h4>
+Test Accuracy: 0.69 (EfficientNetB7), 0.87 (ResNet50)
+<br> Test Loss: 0.85 (EfficientNetB7), 0.37 (ResNet50)
 <h1> References </h1>
  1. https://github.com/meilfang/SynthASpoof
