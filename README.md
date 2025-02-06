@@ -14,10 +14,10 @@ The SynthASpoof dataset was curated specifically for research in face presentati
 attack detection. It addresses the need for a diverse dataset that includes both bona fide 
 and synthetic attack images to simulate real-world attack scenarios.
 <br> Classes and Categories: 
-1. BonaFide: Genuine face images without any tampering or attacks. 
-2. Samsung_ReplayAttack: Synthetic images replayed using a Samsung device, 
+<br> 1. BonaFide: Genuine face images without any tampering or attacks. 
+<br> 2. Samsung_ReplayAttack: Synthetic images replayed using a Samsung device, 
 simulating digital screen replay attacks. 
-3. Webcam_ReplayAttack: Synthetic images replayed using a webcam, simulating 
+<br> 3. Webcam_ReplayAttack: Synthetic images replayed using a webcam, simulating 
 basic attack scenarios. 
 <h3> Technologies Used</h3>
  1. Python
